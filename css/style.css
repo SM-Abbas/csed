@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+
+#events {
+  
+    margin: 4rem 0 8rem;
+    position: relative;
+  }
+
+  #events.container {
+    position: relative;
+   
+  }
+
+  #eventss img {
+    width: 100%;
+    display: block;
+  }
+  
+  #eventss.property-details {
+    padding: 1rem;
+  }
+
+
+
+  #eventss .slick-slide {
+    padding: 0 15px;
+  }
+  
+  #eventss img {
+    width: 100%;
+    display: block;
+  }
+  
+  #evetnss.property-details {
+    padding: 1rem;
+  }
+
+  .carousel-item {
+    height: 32rem;
+    background: #777;
+    color: white;
+    position: relative;
+}
+.container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right:0;
+    padding-bottom: 50px;
+}
